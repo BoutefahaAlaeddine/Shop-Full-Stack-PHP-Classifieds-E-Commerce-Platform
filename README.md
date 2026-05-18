@@ -1,6 +1,6 @@
 # Shop — Full-Stack PHP Classifieds & E-Commerce Platform
 
-> A complete, full-stack **classifieds/marketplace web application** built with **PHP**, **MySQL (PDO)**, and **Bootstrap 3**. Features a dual-area architecture with a user-facing storefront and a fully separate **Admin Panel**, a double approval workflow for users and items, a threaded comments system, hierarchical categories, a tags system, and multilingual support (English & Arabic).
+🌐 Websites. A complete, full-stack **classifieds/marketplace web application** built with **PHP**, **MySQL (PDO)**, and **Bootstrap 3**. Features a dual-area architecture with a user-facing storefront and a fully separate **Admin Panel**, a double approval workflow for users and items, a threaded comments system, hierarchical categories, a tags system, and multilingual support (English & Arabic).
 
 ---
 
